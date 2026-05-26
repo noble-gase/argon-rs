@@ -2,7 +2,8 @@
 name = "arrs"
 version = "0.0.1"
 edition = "2024"
+description = "argon-rs"
 license = "MIT"
-repository = "https://github.com/noble-gase/neon-rs"
+repository = "https://github.com/noble-gase/argon-rs"
 
 [dependencies]
