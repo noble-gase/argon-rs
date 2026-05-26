@@ -1,5 +1,5 @@
 [package]
-name = "arrs"
+name = "argonrs"
 version = "0.0.1"
 edition = "2024"
 description = "argon-rs"
