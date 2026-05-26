@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "argonrs"
+name = "argon-rs"
 version = "0.0.1"
